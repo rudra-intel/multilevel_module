@@ -1,0 +1,6 @@
+[submodule "msa_qa_test"]
+	path = msa_qa_test
+	url = https://github.com/rudra-intel/msa_qa_test.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/rudra-intel/submodule.git
